@@ -17,7 +17,7 @@ function Nav() {
   return (
 
     <div className={`nav ${show && "nav_black"}`}>
-        <h1>NETFLIX</h1> 
+        <h1>Moviezz</h1> 
     </div>
   )
 }
