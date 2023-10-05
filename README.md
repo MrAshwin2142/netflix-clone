@@ -1,10 +1,10 @@
-# Netflix Clone
+# Moviezz
 
-This project is a Netflix clone that allows users to browse and watch movies from various categories. It utilizes the TMDB API to fetch real-time movie data.
+This project allows users to browse and watch movies from various categories. It utilizes the TMDB API to fetch real-time movie data.
 
 ## Live Demo
 
-You can access the live demo of this project here: [Netflix Clone Live Demo](https://ashwin-netflix.netlify.app/)
+You can access the live demo of this project here: [Moviess Live Demo](https://ashwin-netflix.netlify.app/)
 
 ## Features
 
@@ -28,4 +28,4 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/your-username/moviezz.git
